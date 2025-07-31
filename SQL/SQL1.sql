@@ -65,6 +65,10 @@ select * from Production.Product p where p.Name like 'S%'
 --Short-Sleeve Classic Jersey, M          53,99
 
 select p.Name, p.ListPrice
+from Production.Product p
+order by p.Name
+--or
+select p.Name, p.ListPrice
 from Production.Product p where p.Name like 'Seat%' or p.Name like 'S%, L' or p.Name like 'S%, M'
 order by p.Name
 
@@ -77,6 +81,11 @@ order by p.Name
 --AWC Logo Cap                                      8,99
 --Seat Lug                                                 0,00
 --Seat Post                                                0,00
+
+select p.Name, p.ListPrice
+from Production.Product p 
+order by p.Name
+--or
 select p.Name, p.ListPrice
 from Production.Product p where p.Name like 'A%' or p.Name like 'S%'
 order by p.Name
