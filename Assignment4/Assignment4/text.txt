@@ -1,0 +1,98 @@
+﻿/*1. What type would you choose for the following “numbers”?
+--A person’s telephone number - string
+--A person’s height - float
+--A person’s age - int
+--A person’s gender (Male, Female, Prefer Not To Answer) - enum
+--A person’s salary - decimal
+--A book’s ISBN - string
+--A book’s price - decimal
+--A book’s shipping weight - double
+--A country’s population - long
+--The number of stars in the universe - long
+--The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business) - int
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+--Ans: 1.Value types uses stack memory where as reference type is heap memory
+       2.Value types has the values stored directly where as the reference type has the reference/memory location
+          stored pointing to the value
+       3.Value type is not nullable type though we can make it nullable, reference type is nullable
+       4.Value type is not collected by grabage collector, but reference type is collected by garbage collector
+       5.Value type - int, float, strct, enum, etc. ; Reference type - class, array, interface
+   ----Boxing: Converting value type to refernce type
+          eg: int i = 10;
+            object obj = i;
+    ---unboxing: Converting reference type to value type
+           eg :object obj = 10;
+              int i = (int) obj;
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+--Ans: Managed resource - resource that are handled during runtime by .net clr using Garbage collector
+       Unmanaged resource - resource that are not handled by Grabage collector, need to use IDisposible to manually
+         release them
+4. Whats the purpose of Garbage Collector in .NET?
+--Ans: helps to release resources automatically after its use; it manages the memory allocation
+
+Controlling Flow and Converting Types
+Test your Knowledge
+1. What happens when you divide an int variable by 0?
+ ---Ans: throws System.devidedByZeroException
+2. What happens when you divide a double variable by 0?
+---ANs: outputs infinity
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+---Ans: Gives int.MinValue 
+4. What is the difference between x = y++; and x = ++y;?
+--Ans: x = y++ -> y is assigned to x and then incremented
+       x = ++y -> y is incremented and then assigned to x
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+ --- Ans: Break - comes out of the loop
+          continue - ingores the statements after the continue for the current iteration and continues looping
+          return - completes/exits the method
+6. What are the three parts of a for statement and which of them are required?
+---Ans:  for(int i = 0; i < n; i++)
+        initialization; condition; Iteration
+        --condition is required
+
+7. What is the difference between the = and == operators?
+--Ans: = -> is an assignment operator, assigns a value to a variable
+       == -> logical equal to operator, check whether two values are equal or not 
+8. Does the following statement compile? for ( ; true; ) ;
+--Ans: Yes, it compiles and creates infinite loop
+9. What does the underscore _ represent in a switch expression?
+--Ans: Its the default case, when none in condition are satified, the statements under _ are executed
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+--Ans: IEnumerable
+
+
+
+02 Arrays and Strings
+Test your Knowledge
+1. When to use String vs. StringBuilder in C# ?
+--Ans: String - small and fixed string which need not to be modified frequently
+       StringBuilder - many string manipulations
+2. What is the base class for all arrays in C#?
+--Ans:  System.Array
+3. How do you sort an array in C#?
+-- Ans: Arrays.sort(a), a is an array
+
+4. What property of an array object can be used to get the total number of elements in
+an array?
+--Ans: array.Length  
+5. Can you store multiple data types in System.Array?
+--Ans:No
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+--Ans: Array.CopyTo() - copys the array contents into existing target array
+       Array.Clone() - clones and creates a new copy of an array
+
+
+
+
+*/
+
+
+
+
