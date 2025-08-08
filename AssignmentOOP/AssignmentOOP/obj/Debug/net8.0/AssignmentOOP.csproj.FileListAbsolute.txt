@@ -1,0 +1,15 @@
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.AssemblyInfoInputs.cache
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.AssemblyInfo.cs
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.csproj.CoreCompileInputs.cache
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.sourcelink.json
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\bin\Debug\net8.0\AssignmentOOP.exe
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\bin\Debug\net8.0\AssignmentOOP.deps.json
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\bin\Debug\net8.0\AssignmentOOP.runtimeconfig.json
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\bin\Debug\net8.0\AssignmentOOP.dll
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\bin\Debug\net8.0\AssignmentOOP.pdb
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.dll
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\refint\AssignmentOOP.dll
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.pdb
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\AssignmentOOP.genruntimeconfig.cache
+D:\Antra_Shruthi_Pachava\AssignmentOOP\AssignmentOOP\obj\Debug\net8.0\ref\AssignmentOOP.dll
