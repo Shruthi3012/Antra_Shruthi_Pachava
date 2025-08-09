@@ -1,0 +1,15 @@
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.AssemblyInfoInputs.cache
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.AssemblyInfo.cs
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.csproj.CoreCompileInputs.cache
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.sourcelink.json
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\bin\Debug\net8.0\AssignmentGenerics.exe
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\bin\Debug\net8.0\AssignmentGenerics.deps.json
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\bin\Debug\net8.0\AssignmentGenerics.runtimeconfig.json
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\bin\Debug\net8.0\AssignmentGenerics.dll
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\bin\Debug\net8.0\AssignmentGenerics.pdb
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.dll
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\refint\AssignmentGenerics.dll
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.pdb
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\AssignmentGenerics.genruntimeconfig.cache
+D:\Antra_Shruthi_Pachava\AssignmentGenerics\AssignmentGenerics\obj\Debug\net8.0\ref\AssignmentGenerics.dll
